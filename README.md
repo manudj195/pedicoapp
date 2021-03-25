@@ -1,2 +1,4 @@
 # pedicoapp
 Test
+
+AppPrivata 
